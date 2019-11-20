@@ -1,2 +1,2 @@
 * * * * * /root/oto/crashdetect.sh
-1 1,9,17 * * * /root/oto/kill.sh
+1,31 * * * * /root/oto/kill.sh
